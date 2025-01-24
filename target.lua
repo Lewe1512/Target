@@ -10,6 +10,8 @@ elseif gameId == 18668065416 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Lewe1512/game/refs/heads/main/qsfgqsf.lua"))()
 elseif gameId == 9285238704 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Lewe1512/game/refs/heads/main/qnveqo.lua"))()
+elseif gameId == 1345139196 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Lewe1512/game/refs/heads/main/qefqefgh23.lua"))()
 else
     game.Players.LocalPlayer:Kick("[Pulse Hub] This game is currently not supported.\nWe are constantly expanding our game library - check back soon for updates!")
 end 
